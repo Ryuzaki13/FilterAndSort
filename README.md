@@ -1,3 +1,3 @@
 # FilterAndSort
 
-Move no-photo.png to bin\Debug\
+Move `no-photo.png` to `bin\Debug\`
